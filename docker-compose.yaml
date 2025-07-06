@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    ports:
+      - "9000:9000"
+    env_file:
+      - .env
+    environment:
+      - RUNNING_IN_DOCKER=true
+    networks:
+      - appnet
+
+networks:
+  appnet:
+    driver: bridge
