@@ -6,10 +6,15 @@ DB agent is a FastAPI-based service that provides a natural language interface t
 
 DB Agent is an intelligent database query assistant that allows users to interact with the Chinook database using natural language. The Chinook database is a sample database that represents a digital music store, including tables for artists, albums, tracks, invoices, and customers.
 
+
+
+[![▶️ Watch Demo Video](app_demo/thumbnail.jpg)](https://github.com/aashma13/dbagent/main/app_demo/dbagent-demo.mp4)
+
+
 ### Features
 
-- Natural language processing for database queries
-- RESTful API endpoint for chat interactions
+- Natural language processing for database queries with ChatAI on streamlit appp
+- RESTful API endpoint for chat interactions and other Frontend integration
 - CORS support for web client integration
 - Automatic cleanup of temporary database files
 - Streamlit Chat APP with UI
