@@ -8,8 +8,7 @@ DB Agent is an intelligent database query assistant that allows users to interac
 
 
 
-[![▶️ Watch Demo Video](app_demo/thumbnail.jpg)](https://github.com/aashma13/dbagent/main/app_demo/dbagent-demo.mp4)
-
+<img src="https://github.com/aashma13/dbagent/blob/486733ea39b46e658a0ab8d11b6036e496fbe5fb/app_demo/dbagent-demo.mp4.gif">
 
 ### Features
 
